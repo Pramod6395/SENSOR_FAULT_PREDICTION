@@ -1,0 +1,13 @@
+prefix=/home/shubham/IndustryReadyProject/sensor-fault-prediction/ml-data-pipeline/venv
+exec_prefix=/home/shubham/IndustryReadyProject/sensor-fault-prediction/ml-data-pipeline/venv
+libdir=/home/shubham/IndustryReadyProject/sensor-fault-prediction/ml-data-pipeline/venv/lib
+sharedlibdir=/home/shubham/IndustryReadyProject/sensor-fault-prediction/ml-data-pipeline/venv/lib
+includedir=/home/shubham/IndustryReadyProject/sensor-fault-prediction/ml-data-pipeline/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
