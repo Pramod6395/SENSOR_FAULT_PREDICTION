@@ -74,7 +74,4 @@ source ~/.bashrc
 ```
 echo $API_KEY
 ```
-=======
-# SENSOR_FAULT_PREDICTION
-# SENSOR_FAULT_PREDICTION
->>>>>>> 766eae3e6c668e3ed562f688053c8f093c6452f8
+=====
